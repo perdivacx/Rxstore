@@ -1,0 +1,2 @@
+# Rxstore
+Pharma stock management
